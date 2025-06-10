@@ -1,11 +1,16 @@
-# Hi there, I'm Matheus 👋
+<p align="center">
+  <h1 align="center">Hi there, I'm Matheus 👋</h1>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seusite.dev)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devmatheusfaria)
+  <p align="center">
+    Full-Stack Developer focused on <strong>Laravel</strong> and <strong>Vue.js</strong>.<br />
+    I'm currently deepening my knowledge in <strong>UI/UX Design</strong>, exploring best practices in accessibility, usability, and user-centered design.<br />
+    I believe that well-designed interfaces are essential for creating more intuitive, inclusive, and efficient digital experiences.
+  </p>
 
----
-
-Full-Stack Developer especializado em **Laravel** e **Vue.js**.  
-Entusiasta de **UI/UX** com foco em acessibilidade, performance e simplicidade.  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/UI%2FUX%20Design-Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+  </p>
+</p>
